@@ -1,0 +1,22 @@
+{
+  "name": "react-tutorials",
+  "version": "1.0.0",
+  "description": "React_Begining",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneeth-005/React-begining.git"
+  },
+  "author": "praneeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneeth-005/React-begining/issues"
+  },
+  "homepage": "https://github.com/praneeth-005/React-begining#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  }
+}
